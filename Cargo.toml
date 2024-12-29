@@ -1,0 +1,13 @@
+[package]
+name = "familiar"
+version = "0.1.0"
+edition = "2024"
+authors = ["Kenny Miller Song"]
+description = "reserve"
+readme = "README.md"
+repository = "https://github.com/mila411/familiar"
+license = "MIT"
+keywords = ["rust"]
+categories = ["rust-patterns"]
+
+[dependencies]
